@@ -1,0 +1,5 @@
+jiwer
+yaml
+torch
+einops
+collections
